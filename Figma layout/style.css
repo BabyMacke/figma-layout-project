@@ -576,33 +576,3 @@ body{
 
 
 }
-
-/* smaller phones */
-/*
-@media only screen and (max-height:740px){
-    .hero{
-        background-size: 17rem;
-    }
-
-    .hero-content > p{
-        margin-bottom: 35px;
-    }
-
-}
-
-@media only screen and (max-height:600px){
-    .hero-content{
-        font-size: 14px;
-        width: 300px;
-    }
-
-
-    .hero-content > h1{
-        font-size: 40px;
-        margin-bottom: 20px;
-    }
-
-    .hero-content > p{
-        margin-bottom: 25px;
-    }
-}
